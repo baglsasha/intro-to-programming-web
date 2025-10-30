@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(213, 105, 255)
+}
+
+h1,h2,hr {
+    font-family:monospace;
+    color:aquamarine
+    
+}
+
+p,ul {
+    font-family:monospace;
+    color:azure;
+  
+}
+
+a {
+    font-family:monospace;
+    color:cyan
+}
+
+img {
+    border: solid;
+    border-width: 5px;
+    border-color:rgb(255, 205, 41);
+
+}
