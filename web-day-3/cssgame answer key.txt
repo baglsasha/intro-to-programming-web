@@ -1,0 +1,32 @@
+Plate
+Bento
+#fancy
+Plate apple
+#fancy pickle
+.small
+orange.small
+Bento orange.small
+Plate, bento
+*
+Plate *
+Plate + apple
+Bento ~ pickle
+Plate > apple
+Plate :first-child
+Plate :only-child
+#fancy :first-child, pickle
+:nth-child(3)
+bento:nth-child(2)
+Apple:first-of-type
+Plate:nth-of-type(even)
+plate:nth-of-type(2n+3)
+apple:only-of-type
+.small:last-of-type
+Bento:empty
+apple:not(.small)
+[for]
+plate[for]
+[for="Vitaly"]
+[for^="Sa"]
+[for$="ato"]
+[for*="obb"]
